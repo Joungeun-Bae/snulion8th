@@ -1,4 +1,5 @@
 서버: 제공자(Provider) 서비스를 제공하는 컴퓨터, 저장하고 있는 정보(데이터베이스)를 Client 에게 제공
+
 클라이언트: 서비스 요청자
 
         mkvirtualenv <ENVNAME> 가상환경 생성
